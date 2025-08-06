@@ -1,4 +1,4 @@
-# 🧠 Fine-Tuning Mistral 7B on GSM8K with LoRA (Kaggle Environment)
+# 🧠 Fine-Tuning Mistral 7B on GSM8K with LoRA 
 
 This project fine-tunes the [Mistral 7B Instruct](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1) large language model on the Grade School Math 8K (GSM8K) dataset using the Low-Rank Adaptation (LoRA) technique. The pipeline is optimized for Kaggle's GPU environment and leverages `bitsandbytes` for efficient 4-bit quantization.
 
